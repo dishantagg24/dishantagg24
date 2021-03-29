@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm [Dishant](https://github.com/dishantagg24) 👨‍💻
 
-<br/>
-
-
 ## I'm a Student, Developer, Competitive Programmer, and Open Source Enthusiast!!
 
 - 🌱 In a Process of Becoming a "True Full Stack Developer" ; )

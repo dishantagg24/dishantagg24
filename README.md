@@ -10,6 +10,10 @@
 <!-- - 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)  -->
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<br>
+
+![Dishant's github stats](https://github-readme-stats.vercel.app/api?username=dishantagg24&count_private=true&include_all_commits=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishantagg24&layout=compact)
 
 ### Connect with me:
 
@@ -41,7 +45,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-<br />
 <br />
 <br />
 

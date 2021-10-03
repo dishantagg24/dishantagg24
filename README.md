@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [Dishant](https://github.com/dishantagg24) 👨‍💻
 
-## I'm a Student, Developer, Competitive Programmer, and Open Source Enthusiast!!
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=900&lines=I'm+a+Student%2C+Developer%2C+Competitive+Programmer%2C+and+Open+Source+Enthusiast!!)](https://git.io/typing-svg)
 
 - 🌱 In a Process of Becoming a "True Full Stack Developer" ; )
 - 👯 I’m looking for something new or creating some project.
@@ -9,6 +9,7 @@
 - 📫 How to reach me: dishantaggarwal24@gmail.com
 <!-- - 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)  -->
 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 ### Connect with me:
 

@@ -75,6 +75,3 @@ Gitlab : [dishantagg24](https://gitlab.com/dishantaggarwal24)
 [linkedin]: https://www.linkedin.com/in/dishantagg24/
 [gmail]: mailto:dishantaggarwal24@gmail.com
 
-<p align="center">
-  <img src="https://github.com/dishantagg24/dishantagg24/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>

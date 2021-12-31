@@ -4,10 +4,10 @@
 
 - 🌱 In a Process of Becoming a "True Full Stack Developer" ; )
 - 👯 I’m looking for something new or creating some project.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play Chess.
 - 📫 How to reach me: dishantaggarwal24@gmail.com
-<!-- - 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)  -->
+- 📝 [Resume](https://drive.google.com/file/d/1ZY08PvLMyTZtMZ8_SVMKYhoqFZSFyQCB/view?usp=sharing)
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <br>

@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=1000&lines=I'm+a+Student%2C+Developer%2C+Competitive+Programmer%2C+and+Open+Source+Enthusiast!!)](https://git.io/typing-svg)
 
-[<img align="right" alt="Dishant | LinkedIn" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />][linkedin]
+  <img align="right" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" alt="animated" />
 
 - 🌱 In a Process of Becoming a "True Full Stack Developer" ; )
 - 👯 I’m looking for something new or creating some project.
@@ -14,7 +14,7 @@
 <a href="https://portfolio-site-dishantagg24.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=amp&logoColor=white"><a/>
 
-  <img align="right" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" alt="animated" />
+
   
   
 <br />

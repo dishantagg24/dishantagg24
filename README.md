@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play Chess.
 - 📫 How to reach me: dishantaggarwal24@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1ol8EbMEKt_ORf7Hd2MPtD6-6yAYg3Kgw/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/19rk0fM5lkcyEOoAiFA16tKG_B6A5XdAZ/view?usp=sharing)
 
 <a href="https://portfolio-site-dishantagg24.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=amp&logoColor=white"><a/>

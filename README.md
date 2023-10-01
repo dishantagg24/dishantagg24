@@ -6,7 +6,7 @@
 
 - 🌱 In a Process of Becoming a "True Full Stack Developer" ; )
 - 👯 I’m looking for something new or creating some project.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play Chess.
 - 📫 How to reach me: dishantaggarwal24@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1IvYFna2mXwe_R7FwLulw7UybtKPTYJE9/view?usp=sharing)

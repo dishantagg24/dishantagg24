@@ -6,12 +6,12 @@
 
 - 🌱 In a Process of Becoming a "True Full Stack Developer" ; )
 - 👯 I’m looking for something new or creating some project.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play Chess.
 - 📫 How to reach me: dishantaggarwal24@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1IvYFna2mXwe_R7FwLulw7UybtKPTYJE9/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1jVXMFe8W49lE_fe9ll3DW1Dbm84nyJ7G/view?usp=sharing)
 
-<a href="https://portfolio-site-dishantagg24.vercel.app/">
+<a href="https://portfolio-site-dishant-aggarwals-projects.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=amp&logoColor=white"><a/>
 
 
@@ -34,9 +34,9 @@
 
 ### Coding Platforms profile
 <p align="left">
+<a href="https://leetcode.com/dishantagg24/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="dishantagg24" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@dishantaggarwal24" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerearth.svg" alt="dishantagg24" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dishantagg24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dishantagg24" height="30" width="40" /></a>
-<a href="https://leetcode.com/dishantagg24/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="dishantagg24" height="30" width="40" /></a>
 </p>
 
 ### 🛠️ Languages and Tools:
